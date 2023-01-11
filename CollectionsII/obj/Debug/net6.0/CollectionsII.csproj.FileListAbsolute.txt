@@ -1,0 +1,15 @@
+D:\Proyectos\PracticasCollections\CollectionsII\bin\Debug\net6.0\CollectionsII.exe
+D:\Proyectos\PracticasCollections\CollectionsII\bin\Debug\net6.0\CollectionsII.deps.json
+D:\Proyectos\PracticasCollections\CollectionsII\bin\Debug\net6.0\CollectionsII.runtimeconfig.json
+D:\Proyectos\PracticasCollections\CollectionsII\bin\Debug\net6.0\CollectionsII.dll
+D:\Proyectos\PracticasCollections\CollectionsII\bin\Debug\net6.0\CollectionsII.pdb
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.csproj.AssemblyReference.cache
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.AssemblyInfoInputs.cache
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.AssemblyInfo.cs
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.dll
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\refint\CollectionsII.dll
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.pdb
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\CollectionsII.genruntimeconfig.cache
+D:\Proyectos\PracticasCollections\CollectionsII\obj\Debug\net6.0\ref\CollectionsII.dll

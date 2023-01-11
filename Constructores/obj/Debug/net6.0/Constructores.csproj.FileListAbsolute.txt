@@ -1,0 +1,15 @@
+D:\Proyectos\PracticasCollections\Constructores\bin\Debug\net6.0\Constructores.exe
+D:\Proyectos\PracticasCollections\Constructores\bin\Debug\net6.0\Constructores.deps.json
+D:\Proyectos\PracticasCollections\Constructores\bin\Debug\net6.0\Constructores.runtimeconfig.json
+D:\Proyectos\PracticasCollections\Constructores\bin\Debug\net6.0\Constructores.dll
+D:\Proyectos\PracticasCollections\Constructores\bin\Debug\net6.0\Constructores.pdb
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.csproj.AssemblyReference.cache
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfoInputs.cache
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.AssemblyInfo.cs
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.dll
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\refint\Constructores.dll
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.pdb
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\Constructores.genruntimeconfig.cache
+D:\Proyectos\PracticasCollections\Constructores\obj\Debug\net6.0\ref\Constructores.dll

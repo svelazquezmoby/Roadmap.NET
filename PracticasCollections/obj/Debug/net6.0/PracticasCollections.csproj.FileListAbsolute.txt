@@ -1,0 +1,15 @@
+D:\Proyectos\PracticasCollections\PracticasCollections\bin\Debug\net6.0\PracticasCollections.exe
+D:\Proyectos\PracticasCollections\PracticasCollections\bin\Debug\net6.0\PracticasCollections.deps.json
+D:\Proyectos\PracticasCollections\PracticasCollections\bin\Debug\net6.0\PracticasCollections.runtimeconfig.json
+D:\Proyectos\PracticasCollections\PracticasCollections\bin\Debug\net6.0\PracticasCollections.dll
+D:\Proyectos\PracticasCollections\PracticasCollections\bin\Debug\net6.0\PracticasCollections.pdb
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.csproj.AssemblyReference.cache
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.AssemblyInfoInputs.cache
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.AssemblyInfo.cs
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.dll
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\refint\PracticasCollections.dll
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.pdb
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\PracticasCollections.genruntimeconfig.cache
+D:\Proyectos\PracticasCollections\PracticasCollections\obj\Debug\net6.0\ref\PracticasCollections.dll

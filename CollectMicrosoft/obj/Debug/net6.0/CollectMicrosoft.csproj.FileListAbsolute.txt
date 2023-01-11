@@ -1,0 +1,15 @@
+D:\Proyectos\PracticasCollections\CollectMicrosoft\bin\Debug\net6.0\CollectMicrosoft.exe
+D:\Proyectos\PracticasCollections\CollectMicrosoft\bin\Debug\net6.0\CollectMicrosoft.deps.json
+D:\Proyectos\PracticasCollections\CollectMicrosoft\bin\Debug\net6.0\CollectMicrosoft.runtimeconfig.json
+D:\Proyectos\PracticasCollections\CollectMicrosoft\bin\Debug\net6.0\CollectMicrosoft.dll
+D:\Proyectos\PracticasCollections\CollectMicrosoft\bin\Debug\net6.0\CollectMicrosoft.pdb
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.csproj.AssemblyReference.cache
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.AssemblyInfoInputs.cache
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.AssemblyInfo.cs
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.dll
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\refint\CollectMicrosoft.dll
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.pdb
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\CollectMicrosoft.genruntimeconfig.cache
+D:\Proyectos\PracticasCollections\CollectMicrosoft\obj\Debug\net6.0\ref\CollectMicrosoft.dll
