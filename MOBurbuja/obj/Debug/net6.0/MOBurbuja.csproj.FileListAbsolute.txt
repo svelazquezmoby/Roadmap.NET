@@ -1,0 +1,15 @@
+D:\Proyectos\PracticasCollections\MOBurbuja\bin\Debug\net6.0\MOBurbuja.exe
+D:\Proyectos\PracticasCollections\MOBurbuja\bin\Debug\net6.0\MOBurbuja.deps.json
+D:\Proyectos\PracticasCollections\MOBurbuja\bin\Debug\net6.0\MOBurbuja.runtimeconfig.json
+D:\Proyectos\PracticasCollections\MOBurbuja\bin\Debug\net6.0\MOBurbuja.dll
+D:\Proyectos\PracticasCollections\MOBurbuja\bin\Debug\net6.0\MOBurbuja.pdb
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.csproj.AssemblyReference.cache
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.AssemblyInfoInputs.cache
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.AssemblyInfo.cs
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.dll
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\refint\MOBurbuja.dll
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.pdb
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\MOBurbuja.genruntimeconfig.cache
+D:\Proyectos\PracticasCollections\MOBurbuja\obj\Debug\net6.0\ref\MOBurbuja.dll
