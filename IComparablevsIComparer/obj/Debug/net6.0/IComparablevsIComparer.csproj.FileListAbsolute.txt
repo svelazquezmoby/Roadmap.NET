@@ -1,0 +1,15 @@
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\bin\Debug\net6.0\IComparablevsIComparer.exe
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\bin\Debug\net6.0\IComparablevsIComparer.deps.json
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\bin\Debug\net6.0\IComparablevsIComparer.runtimeconfig.json
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\bin\Debug\net6.0\IComparablevsIComparer.dll
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\bin\Debug\net6.0\IComparablevsIComparer.pdb
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.csproj.AssemblyReference.cache
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.AssemblyInfoInputs.cache
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.AssemblyInfo.cs
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.dll
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\refint\IComparablevsIComparer.dll
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.pdb
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\IComparablevsIComparer.genruntimeconfig.cache
+D:\Proyectos\PracticasCollections\IComparablevsIComparer\obj\Debug\net6.0\ref\IComparablevsIComparer.dll

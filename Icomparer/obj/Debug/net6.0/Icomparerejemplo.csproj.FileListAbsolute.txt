@@ -1,0 +1,15 @@
+D:\Proyectos\PracticasCollections\Icomparer\bin\Debug\net6.0\Icomparerejemplo.exe
+D:\Proyectos\PracticasCollections\Icomparer\bin\Debug\net6.0\Icomparerejemplo.deps.json
+D:\Proyectos\PracticasCollections\Icomparer\bin\Debug\net6.0\Icomparerejemplo.runtimeconfig.json
+D:\Proyectos\PracticasCollections\Icomparer\bin\Debug\net6.0\Icomparerejemplo.dll
+D:\Proyectos\PracticasCollections\Icomparer\bin\Debug\net6.0\Icomparerejemplo.pdb
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.csproj.AssemblyReference.cache
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.AssemblyInfoInputs.cache
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.AssemblyInfo.cs
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.csproj.CoreCompileInputs.cache
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.dll
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\refint\Icomparerejemplo.dll
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.pdb
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\Icomparerejemplo.genruntimeconfig.cache
+D:\Proyectos\PracticasCollections\Icomparer\obj\Debug\net6.0\ref\Icomparerejemplo.dll

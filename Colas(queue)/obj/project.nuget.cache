@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "UV6XASxh8oymAYGlIhcb6Luhc+Un2eL9nbmeBoUbOv6VcvDuqSXfQG0cz3Fmk1vOtTyAC9SrH7kRmnSF3go2sg==",
+  "success": true,
+  "projectFilePath": "D:\\Proyectos\\PracticasCollections\\Colas(queue)\\Colas(queue).csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gian\\.nuget\\packages\\documentformat.openxml\\2.19.0\\documentformat.openxml.2.19.0.nupkg.sha512",
+    "C:\\Users\\Gian\\.nuget\\packages\\system.io.packaging\\4.7.0\\system.io.packaging.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
